@@ -1,0 +1,15 @@
+input {
+  width: 70%;
+  text-align: left;
+}
+
+.item-container {
+}
+
+.kg-row {
+  margin: 10px 3px;
+}
+
+.kg-button {
+  min-width: 70px;
+}
